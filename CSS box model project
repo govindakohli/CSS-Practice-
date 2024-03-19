@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Project 1</title>
+    <link rel="stylesheet" href="BOX.CSS">
+</head>
+<body>
+    <H1>BOX MODEL</H1>
+    <hr>
+    <br>
+    <br>
+    <br>
+    <div class="BOX">
+        <div id="BOX1">
+        <!-- <img src="https://tse3.mm.bing.net/th?id=OIP.YamThAfETQJZRHNHwcjeCAHaE7&pid=Api&P=0&h=180" heigjt ="200px"> -->
+        BOX 1
+        </div>
+        <div id="BOX2">
+            BOX 2
+        </div>
+        <div id="BOX3">
+            BOX 3
+        </div>
+        <div id="BOX4">
+            BOX 4
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <div id="BOX5">
+            BOX 5
+        </div>
+        <div id="BOX6">
+            BOX 6
+        </div>
+        <div id="BOX7">
+            BOX 7
+        </div>
+        <div id="BOX8">
+            BOX 8
+        </div>
+    </div>
+    
+</body>
+</html>
